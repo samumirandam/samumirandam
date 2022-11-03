@@ -35,8 +35,10 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samumirandam&layout=compact&langs_count=6)](https://github.com/samumirandam)
 
 [![samumirandam's github stats](https://github-readme-stats.vercel.app/api?username=samumirandam&theme=onedark&show_icons=true&count_private=true)](https://github.com/samumirandam)
+
 
 <!-- ![samumirandam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samumirandam) -->
 <!--
