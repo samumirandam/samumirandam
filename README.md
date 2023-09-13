@@ -1,6 +1,6 @@
 ## Hi there 👋, I'am Samuel Miranda Martínez
 
-### <em>Frontend Developer</em>
+### <em>Front-End Engineer</em>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samumirandam/)
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/samumirandam/)
