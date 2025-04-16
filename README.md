@@ -4,10 +4,10 @@
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with 10+ years of experience in software development, specializing in React and its ecosystem. I build scalable, performant web applications with a focus on user experience, clean code, and best practices.
+Frontend Engineer with 10+ years of experience in software development, specializing in React and its ecosystem. I design and build scalable, performant web applications with a focus on architecture, user experience, and engineering best practices.
 
 - 🔭 Currently working at **Apply Digital** developing B2B and B2C platforms
-- 🌱 Currently learning **Next.js** and **AWS Cloud Computing**
+- 🌱 Currently learning **Next.js**, **AWS Cloud Computing**, **Architecture Patterns** and **AI tools for development**
 - 🚀 Certified **Contentful Professional** (2024)
 - 🎓 Postgraduate Degree in Software Engineering from **Universidad Nacional de Colombia**
 
@@ -82,21 +82,44 @@ Cross-platform mobile application for fitness tracking with personalized workout
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white) ![Sonarqube](https://img.shields.io/badge/SonarQube-4E9BCD.svg?style=for-the-badge&logo=SonarQube&logoColor=white)
 
+## 👨‍🏫 Technical Leadership Skills
+
+- **Architecture Design** - Experience designing scalable frontend architectures
+- **Code Quality** - Implementation of testing strategies and code review best practices
+- **Agile Methodologies** - Experience with Scrum and Agile development practices
+
 ## 🎓 Continuous Learning
-
-### Recent Courses
-
-- **[Platzi]** Professional Next.js Course (2022)
-- **[Platzi]** Server Side Rendering with React.js (2023)
-- **[Platzi]** React.js with TypeScript (2023)
-- **[Platzi]** GitHub Actions Basics (2023)
-- **[Platzi]** Backend with NestJS (2023)
-- **[Platzi]** Introduction to AWS: Cloud Computing Fundamentals (2025)
 
 ### Certifications
 
 - **Contentful Certified Professional** (2024)
 - **English - Achievement Exam B1** - Colombo Americano de Medellín (2023)
+
+### Recent Courses & Learning Paths
+
+#### Leadership & Architecture
+
+- **[Platzi]** Foundations of High Concurrency Architecture (2023)
+- **[Platzi]** Professional Scrum Course (2023)
+- **[Platzi]** How to Give and Receive Feedback (2023)
+
+#### Advanced Frontend
+
+- **[Platzi]** React.js: Render Patterns and Composition (2023)
+- **[Platzi]** React.js: Professional State Management (2023)
+- **[Platzi]** State Machines in React.js (2023)
+- **[Platzi]** Next.js: Web Security with OWASP (2023)
+
+#### DevOps & Cloud
+
+- **[Platzi]** Introduction to AWS: Cloud Computing Fundamentals (2025)
+- **[Platzi]** GitHub Actions Basics (2023)
+
+#### Emerging Technologies
+
+- **[Platzi]** AI Tools for Developers (2023)
+- **[Platzi]** GitHub Copilot (2023)
+- **[Platzi]** Rust Basics (2022)
 
 ## 📊 GitHub Stats
 
