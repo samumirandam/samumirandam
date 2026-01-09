@@ -97,6 +97,8 @@ Frontend implementations demonstrating development skills
 - 💡 Technical consulting
 - 📚 Knowledge sharing
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D31M1LFS)
+
 ---
 
 <div align="center">
