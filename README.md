@@ -24,7 +24,7 @@ Senior Frontend Engineer with 10+ years building web and mobile platforms with R
 - 🔭 Currently building B2B and B2C platforms at **Apply Digital**
 - 🌱 Currently learning **AI tools & MCP, N8N automation** and **Cybersecurity fundamentals**
 - 🚀 **Contentful Certified Professional** (2024)
-- 🧪 Creator of **[Ciencia a Mordiscos](https://cienciaamordiscos.com)** — AI-assisted science content pipeline for YouTube & TikTok
+- 🧪 Cocreator of **[Ciencia a Mordiscos](https://cienciaamordiscos.com)** — AI-assisted science content pipeline for YouTube & TikTok
 - 🖥️ Running a **17-service self-hosted homelab** with Docker, Traefik, CrowdSec & automated backups
 
 ## 🛠️ Core Technologies
