@@ -1,98 +1,137 @@
-# Samuel Miranda Martínez | Frontend Engineer
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samumirandam/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samu.miranda.martinez@gmail.com)
-[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/samumirandam/)
+# Samuel Miranda Martínez | Senior Frontend Engineer
+
+<a href="https://www.linkedin.com/in/samumirandam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:samu.miranda.martinez@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://platzi.com/p/samumirandam/">
+  <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi">
+</a>
+<a href="https://samumirandam.dev">
+  <img src="https://img.shields.io/badge/samumirandam.dev-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Website">
+</a>
+
+</div>
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with 10+ years of experience in software development, specializing in React and its ecosystem. I design and build scalable, performant web applications with a focus on architecture, user experience, and engineering best practices.
+Senior Frontend Engineer with 10+ years building web and mobile platforms with React, TypeScript, and React Native. I design high-performance products focused on architecture, user experience, and engineering best practices. I've expanded my profile into self-hosted infrastructure (Docker, Traefik, Cloudflare), AI automation (N8N, Claude, MCP), and programmatic content creation at scale.
 
-- 🔭 Currently working at **Apply Digital** developing B2B and B2C platforms
-- 🌱 Currently learning **Next.js**, **AWS Cloud Computing**, **Architecture Patterns** and **AI tools for development**
+- 🔭 Currently building B2B and B2C platforms at **Apply Digital**
+- 🌱 Currently learning **AI tools & MCP, N8N automation** and **Cybersecurity fundamentals**
 - 🚀 **Contentful Certified Professional** (2024)
-- 🎓 **Software Engineering Specialist** - Universidad Nacional de Colombia
+- 🧪 Creator of **[Ciencia a Mordiscos](https://cienciaamordiscos.com)** — AI-assisted science content pipeline for YouTube & TikTok
+- 🖥️ Running a **17-service self-hosted homelab** with Docker, Traefik, CrowdSec & automated backups
 
 ## 🛠️ Core Technologies
 
 **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Styling:**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+**Mobile:**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Testing:**
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 
-**Tools & Others:**
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+
+**Build Tools:**
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+**DevOps & Infrastructure:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
+
+**AI & Automation:**
+
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Content & Video:**
+
+![Ghost](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🏗️ Featured Projects
 
-### 🔧 [React Code Analyzer MCP](https://github.com/samumirandam/react-code-analyzer-mcp)
-MCP server for static analysis of React/TypeScript code with Claude Desktop integration
-<br>**Tech:** TypeScript, MCP, Static Analysis
+### 🚀 [Trellium Social Hub](https://trellium.dev/social-hub/)
 
-### 🛒 [Next.js Store](https://github.com/samumirandam/nextjs-store)  
-E-commerce project built with Next.js 14 and TypeScript
-<br>**Tech:** Next.js 14, TypeScript, Tailwind CSS
+SaaS for TikTok and Pinterest automation. REST API with secure OAuth, n8n/Zapier/Make integration, and monitoring dashboard. Serverless architecture on Cloudflare. `Cloudflare Functions` `D1 Database` `TikTok API` `Pinterest API` `OAuth 2.0` `Astro`
+
+### 🧪 [Ciencia a Mordiscos](https://cienciaamordiscos.com)
+
+AI-assisted pipeline that produces science content for YouTube and TikTok. Claude generates and verifies scripts, ElevenLabs synthesizes the narration, and Remotion renders the video with dynamic overlays. Each video goes through human review before publishing. `TypeScript` `React` `Remotion` `N8N` `Claude API` `ElevenLabs` `FFmpeg` `Ghost CMS` `Docker` `Python`
+
+### 🖥️ [Self-Hosted Automation Lab](https://github.com/samumirandam)
+
+Personal homelab with 17 containerized services. Layered security (CrowdSec WAF + UFW + SSRF prevention), encrypted deduplicated backups with Borg + Google Drive sync, and proactive monitoring with push alerts. 40+ automation scripts with systemd timers. `Docker Compose` `Traefik v3` `CrowdSec` `N8N` `PostgreSQL` `Cloudflare` `Bash` `Python` `systemd`
 
 ### 📱 [React Native Pokedex](https://github.com/samumirandam/pokedex-react-native)
-Mobile Pokedex app built with React Native
-<br>**Tech:** React Native, JavaScript, PokéAPI
 
-### 🧪 [Technical Tests Collection](https://github.com/samumirandam/technical-test-dummyapi)
-Frontend implementations demonstrating development skills
-<br>**Tech:** React, JavaScript, API Integration
+Mobile Pokédex app showcasing cross-platform development skills with React Native. `React Native` `JavaScript` `PokéAPI`
 
 ## 💼 Professional Experience
 
-- **Apply Digital** - Front-End Engineer (2022 - Present)
-  - Implementation of component libraries for design standardization
-  - Development of improvements for B2B and B2C portals
+**Apply Digital** — Front-End Engineer _(2022 – Present)_
 
-- **Protección S.A.** - Frontend Web Developer (2021 - 2022)  
-  - Migration of transactions to reference architecture in web platforms
+- Develop web and mobile platforms improving B2B and B2C user experiences
+- _React, React Native, Expo, Gatsby, TypeScript, Tailwind CSS, Storybook, GitHub Actions, Bitrise, Contentful, Algolia, Commercelayer_
+- ✅ Built component library to standardize design system across products
+- ✅ Led improvements on B2B and B2C portals
 
-- **Tuya S.A.** - Software Developer (2016 - 2021)
-  - Improved client consultation and payment platforms
-  - Developed web platform to enhance customer service
+**RV Dev** — Front-end Developer _(2022)_
 
-## 🎓 Continuous Learning
+- Developed web and mobile platforms to connect celebrities with users
+- _React, React Native, TypeScript, Redux, Sagas, Jest_
 
-**Recent Certifications:**
-- **Contentful Certified Professional** (2024)
-- **English - Achievement Exam B1** - Colombo Americano de Medellín (2023)
+**Protección S.A.** — Frontend Web Developer _(2021 – 2022)_
 
-**Recent Courses (2023-2025):**
-- Introduction to AWS: Cloud Computing Fundamentals (Platzi, 2025)
-- Prompt Engineering (Platzi, 2025)  
-- AI Tools for Developers (Platzi, 2023)
-- React.js with TypeScript (Platzi, 2023)
+- Developed web platforms for clients to consult and update their financial information
+- _React, Redux, Jest, Enzyme, Jenkins, GitLab_
+- ✅ Migrated transactions to reference architecture on web platforms
 
-## 📊 GitHub Stats
+**Tuya S.A.** — Software Developer _(2016 – 2021)_ Developed software components for payment processing and customer service platforms. ✅ Led First Data migration — core credit card processing engine upgrade.
 
-<div align="center">
+**Easy Cube** — Software Developer _(2015 – 2016)_ Built web platform for advertising content creation and visualization.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samumirandam&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+## 🎓 Continuous Learning — 2025
 
-</div>
+**🤖 AI & Automation**
+
+- Model Context Protocol Intensive (Midudev)
+- N8N Automation, Prompt Engineering, Claude AI, ChatGPT, GitHub Copilot (Platzi)
+- Ethical Human-Centric AI Design, Generative AI vs. Traditional AI (LinkedIn)
+- Foundational AI Certification (Apply Digital)
+
+**🔒 Cybersecurity**
+
+- Introduction to Cybersecurity, Social Engineering (Platzi)
+- Cybersecurity and Privacy for Companies (Platzi)
+- Cybersecurity at Work (LinkedIn)
+
+**⚛️ Frontend & Architecture**
+
+- Tailwind CSS from scratch (Midudev)
+- Software Engineering Fundamentals (Platzi)
+
+**🚀 DevOps & Infrastructure**
+
+- Introduction to AWS: Cloud Computing Fundamentals (Platzi)
 
 ## 📫 Let's Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/samumirandam/)
+- 🌐 [samumirandam.dev](https://samumirandam.dev)
+- 🧪 [Ciencia a Mordiscos](https://cienciaamordiscos.com)
+
 **Open to:**
-- 🚀 Frontend Engineer opportunities
+
+- 🚀 Senior Frontend Engineer opportunities
 - 🤝 Collaborative projects
 - 💡 Technical consulting
 - 📚 Knowledge sharing
@@ -101,6 +140,6 @@ Frontend implementations demonstrating development skills
 
 <div align="center">
 
-**Frontend Engineer** | **10+ years of experience** | **Colombia** 🇨🇴
+**Senior Frontend Engineer** | **10+ years of experience** | **Colombia** 🇨🇴
 
 </div>
