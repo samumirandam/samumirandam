@@ -19,13 +19,13 @@
 
 ## 👨‍💻 About Me
 
-Senior Frontend Engineer with 10+ years building web and mobile platforms with React, TypeScript, and React Native. I design high-performance products focused on architecture, user experience, and engineering best practices. I've expanded my profile into self-hosted infrastructure (Docker, Traefik, Cloudflare), AI automation (N8N, Claude, MCP), and programmatic content creation at scale.
+Senior Frontend Engineer. 10+ years with React, TypeScript, and React Native building web and mobile products. Today I combine frontend with self-hosted infrastructure (Docker, Traefik, Cloudflare), AI automation (Claude, N8N, MCP), and a science outreach project that produces ~5 videos/day autonomously.
 
 - 🔭 Currently building B2B and B2C platforms at **Apply Digital**
-- 🌱 Currently learning **AI tools & MCP, N8N automation** and **Cybersecurity fundamentals**
-- 🚀 **Contentful Certified Professional** (2024)
-- 🧪 Cocreator of **[Ciencia a Mordiscos](https://cienciaamordiscos.com)** — AI-assisted science content pipeline for YouTube & TikTok
-- 🖥️ Running a **17-service self-hosted homelab** with Docker, Traefik, CrowdSec & automated backups
+- 🧪 Cocreator of **[Ciencia a Mordiscos](https://cienciaamordiscos.com)** — automated science content pipeline for YouTube & TikTok
+- 🖥️ Running a **~20-service self-hosted homelab** with Docker, Traefik v3.6, CrowdSec & ~40 automated tasks
+- 🤖 Built a **multi-tenant AI chat platform** with rate limiting, RAG, and sandboxed code interpreter
+- 🚀 **Contentful Certified Professional** (2024) · **Claude Code in Action** & **Claude 101** (Anthropic, 2026)
 
 ## 🛠️ Core Technologies
 
@@ -45,83 +45,94 @@ Senior Frontend Engineer with 10+ years building web and mobile platforms with R
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
+**Backend & Databases:**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 **DevOps & Infrastructure:**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI & Automation:**
 
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Content & Video:**
 
-![Ghost](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 🏗️ Featured Projects
 
 ### 🚀 [Trellium Social Hub](https://trellium.dev/social-hub/)
 
-SaaS for TikTok and Pinterest automation. REST API with secure OAuth, n8n/Zapier/Make integration, and monitoring dashboard. Serverless architecture on Cloudflare. `Cloudflare Functions` `D1 Database` `TikTok API` `Pinterest API` `OAuth 2.0` `Astro`
+SaaS for TikTok and Pinterest automation. REST API with secure OAuth, n8n/Zapier/Make integration, and monitoring dashboard. Serverless on Cloudflare.
+
+`Cloudflare Functions` `D1 Database` `TikTok API` `Pinterest API` `OAuth 2.0` `Astro`
 
 ### 🧪 [Ciencia a Mordiscos](https://cienciaamordiscos.com)
 
-AI-assisted pipeline that produces science content for YouTube and TikTok. Claude generates and verifies scripts, ElevenLabs synthesizes the narration, and Remotion renders the video with dynamic overlays. Each video goes through human review before publishing. `TypeScript` `React` `Remotion` `N8N` `Claude API` `ElevenLabs` `FFmpeg` `Ghost CMS` `Docker` `Python`
+Science content production pipeline: articles → scripts via Claude API → audio with ElevenLabs → video with Remotion → YouTube/TikTok. Produces ~5 videos/day and 3 reproducible notebooks. Own analytics drive format, duration, and timing decisions.
+
+`TypeScript` `React` `Remotion` `N8N` `Claude API` `ElevenLabs TTS` `FFmpeg` `Jupyter Book` `Docker` `Python`
 
 ### 🖥️ [Self-Hosted Automation Lab](https://github.com/samumirandam)
 
-Personal homelab with 17 containerized services. Layered security (CrowdSec WAF + UFW + SSRF prevention), encrypted deduplicated backups with Borg + Google Drive sync, and proactive monitoring with push alerts. 40+ automation scripts with systemd timers. `Docker Compose` `Traefik v3` `CrowdSec` `N8N` `PostgreSQL` `Cloudflare` `Bash` `Python` `systemd`
+Personal server centralizing automation, hosting, and monitoring. ~20 Docker services (N8N, Umami, Uptime Kuma, PostgreSQL, etc.), layered security with CrowdSec and UFW, encrypted backups with Borg, and ~40 automated tasks via systemd timers.
 
-### 📱 [React Native Pokedex](https://github.com/samumirandam/pokedex-react-native)
+`Docker Compose` `Traefik v3.6` `CrowdSec` `N8N` `PostgreSQL` `Cloudflare` `Bash` `Python` `systemd` `Borg Backup`
 
-Mobile Pokédex app showcasing cross-platform development skills with React Native. `React Native` `JavaScript` `PokéAPI`
+### 🤖 [Multi-Tenant AI Chat Platform](https://github.com/samumirandam)
+
+AI chat platform for 4 users with 3 access tiers. Custom proxy (stream-buffer) with rate limiting and model gating, sandboxed Jupyter code interpreter, RAG with Voyage AI, and image generation. Self-hosted on Open WebUI.
+
+`Open WebUI` `Node.js` `Claude API` `Jupyter` `Voyage AI` `Docker` `Traefik`
 
 ## 💼 Professional Experience
 
-**Apply Digital** — Front-End Engineer _(2022 – Present)_
+**Apply Digital** — Front-End Engineer *(2022 – Present)*
 
 - Develop web and mobile platforms improving B2B and B2C user experiences
-- _React, React Native, Expo, Gatsby, TypeScript, Tailwind CSS, Storybook, GitHub Actions, Bitrise, Contentful, Algolia, Commercelayer_
+- *React, React Native, Expo, Gatsby, TypeScript, Tailwind CSS, Storybook, GitHub Actions, Bitrise, Contentful, Algolia, Commercelayer*
 - ✅ Built component library to standardize design system across products
-- ✅ Led improvements on B2B and B2C portals
 
-**RV Dev** — Front-end Developer _(2022)_
+**RV Dev** — Front-end Developer *(2022)*
 
-- Developed web and mobile platforms to connect celebrities with users
-- _React, React Native, TypeScript, Redux, Sagas, Jest_
+- Developed web and mobile platforms connecting celebrities with users
+- *React, React Native, TypeScript, Redux, Sagas, Jest*
 
-**Protección S.A.** — Frontend Web Developer _(2021 – 2022)_
+**Protección S.A.** — Frontend Web Developer *(2021 – 2022)*
 
-- Developed web platforms for clients to consult and update their financial information
-- _React, Redux, Jest, Enzyme, Jenkins, GitLab_
-- ✅ Migrated transactions to reference architecture on web platforms
+- Developed web platforms for financial information consultation and management
+- *React, Redux, Jest, Enzyme, Jenkins, GitLab*
+- ✅ Migrated transactions to reference architecture
 
-**Tuya S.A.** — Software Developer _(2016 – 2021)_ Developed software components for payment processing and customer service platforms. ✅ Led First Data migration — core credit card processing engine upgrade.
+**Tuya S.A.** — Software Developer *(2016 – 2021)* — Payment processing and customer service platforms. ✅ Led First Data migration: core credit card processing engine.
 
-**Easy Cube** — Software Developer _(2015 – 2016)_ Built web platform for advertising content creation and visualization.
+**Easy Cube** — Software Developer *(2015 – 2016)* — Built web platform for advertising content management.
 
-## 🎓 Continuous Learning — 2025
+## 🎓 Continuous Learning — 2025–2026
 
 **🤖 AI & Automation**
 
+- Claude 101, Claude Code in Action (Anthropic, 2026)
 - Model Context Protocol Intensive (Midudev)
-- N8N Automation, Prompt Engineering, Claude AI, ChatGPT, GitHub Copilot (Platzi)
-- Ethical Human-Centric AI Design, Generative AI vs. Traditional AI (LinkedIn)
+- N8N Automation, Prompt Engineering, Claude AI, ChatGPT, GitHub Copilot, AI Tools for Developers (Platzi)
+- Ethical Human-Centric AI Design, Generative AI vs. Traditional AI, Prompt Engineering with ChatGPT, Building an AI-First Mindset (LinkedIn)
 - Foundational AI Certification (Apply Digital)
 
 **🔒 Cybersecurity**
 
-- Introduction to Cybersecurity, Social Engineering (Platzi)
-- Cybersecurity and Privacy for Companies (Platzi)
+- Introduction to Cybersecurity, Social Engineering, Cybersecurity & Privacy for Companies (Platzi)
 - Cybersecurity at Work (LinkedIn)
 
 **⚛️ Frontend & Architecture**
 
-- Tailwind CSS from scratch (Midudev)
+- Tailwind CSS from Scratch (Midudev)
 - Software Engineering Fundamentals (Platzi)
 
-**🚀 DevOps & Infrastructure**
+**🚀 DevOps**
 
-- Introduction to AWS: Cloud Computing Fundamentals (Platzi)
+- AWS Fundamentals: Cloud Computing (Platzi)
 
 ## 📫 Let's Connect
 
@@ -134,7 +145,6 @@ Mobile Pokédex app showcasing cross-platform development skills with React Nati
 - 🚀 Senior Frontend Engineer opportunities
 - 🤝 Collaborative projects
 - 💡 Technical consulting
-- 📚 Knowledge sharing
 
 ---
 
