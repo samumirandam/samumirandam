@@ -1,11 +1,11 @@
 <div align="center">
 
-# Samuel Miranda Martínez | Senior Frontend Engineer
+# Samuel Miranda Martínez | Senior Software Engineer
 
 <a href="https://www.linkedin.com/in/samumirandam/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:samu.miranda.martinez@gmail.com">
+<a href="mailto:hola@samumirandam.dev">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://platzi.com/p/samumirandam/">
@@ -17,17 +17,17 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
-Senior Frontend Engineer. 10+ years with React, TypeScript, and React Native building web and mobile products. Today I combine frontend with self-hosted infrastructure (Docker, Traefik, Cloudflare), AI automation (Claude, N8N, MCP), and a science outreach project that produces ~5 videos/day autonomously.
+Software Engineer with 10+ years in React, TypeScript, and React Native. I maintain my own infrastructure with Docker and Go agents that automate everything from backups to a science content pipeline producing ~4 videos/day without manual intervention.
 
 - 🔭 Currently building B2B and B2C platforms at **Apply Digital**
 - 🧪 Cocreator of **[Ciencia a Mordiscos](https://cienciaamordiscos.com)** — automated science content pipeline for YouTube & TikTok
-- 🖥️ Running a **~20-service self-hosted homelab** with Docker, Traefik v3.6, CrowdSec & ~40 automated tasks
-- 🤖 Built a **multi-tenant AI chat platform** with rate limiting, RAG, and sandboxed code interpreter
-- 🚀 **Contentful Certified Professional** (2024) · **Claude Code in Action** & **Claude 101** (Anthropic, 2026)
+- 🖥️ Running my own **infrastructure with Docker, Traefik, CrowdSec** and Go agents that orchestrate content, backups, monitoring, and security
+- 🤖 Built an **AI Agent Orchestration Platform** in Go — autonomous agents with circuit breakers, locking, and an Anthropic-compatible API Gateway
+- 🚀 **Contentful Certified Professional** (2024) · **Claude Code in Action** & **MCP** (Anthropic, 2026)
 
-## 🛠️ Core Technologies
+## Core Technologies
 
 **Frontend:**
 
@@ -35,7 +35,7 @@ Senior Frontend Engineer. 10+ years with React, TypeScript, and React Native bui
 
 **Mobile:**
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 **Testing:**
 
@@ -47,11 +47,11 @@ Senior Frontend Engineer. 10+ years with React, TypeScript, and React Native bui
 
 **Backend & Databases:**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **DevOps & Infrastructure:**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI & Automation:**
 
@@ -61,7 +61,7 @@ Senior Frontend Engineer. 10+ years with React, TypeScript, and React Native bui
 
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 ### 🚀 [Trellium Social Hub](https://trellium.dev/social-hub/)
 
@@ -71,29 +71,36 @@ SaaS for TikTok and Pinterest automation. REST API with secure OAuth, n8n/Zapier
 
 ### 🧪 [Ciencia a Mordiscos](https://cienciaamordiscos.com)
 
-Science content production pipeline: articles → scripts via Claude API → audio with ElevenLabs → video with Remotion → YouTube/TikTok. Produces ~5 videos/day and 3 reproducible notebooks. Own analytics drive format, duration, and timing decisions.
+Science content pipeline: papers → AI script → TTS → video → YouTube/TikTok. Each topic starts as a verified notebook from Nature/Science. ~4 videos/day and 3 notebooks automated.
 
-`TypeScript` `React` `Remotion` `N8N` `Claude API` `ElevenLabs TTS` `FFmpeg` `Jupyter Book` `Docker` `Python`
+`Go` `TypeScript` `React` `Remotion` `N8N` `Claude API` `ElevenLabs TTS` `FFmpeg` `Jupyter Book` `Docker` `Python`
+
+### 📵 [Wey Ya!](https://github.com/samumirandam/wey-ya)
+
+Open-source Android app that blocks spam calls with zero internet connection. Two blocking modes, urgency bypass, schedules, whitelist, Jetpack Glance widget, exportable history, and privacy dashboard. Zero data sent to the cloud.
+
+`Kotlin` `Jetpack Compose` `Material 3` `Room` `Hilt` `DataStore` `Jetpack Glance` `MVVM`
 
 ### 🖥️ [Self-Hosted Automation Lab](https://github.com/samumirandam)
 
-Personal server centralizing automation, hosting, and monitoring. ~20 Docker services (N8N, Umami, Uptime Kuma, PostgreSQL, etc.), layered security with CrowdSec and UFW, encrypted backups with Borg, and ~40 automated tasks via systemd timers.
+Personal server with Docker services, autonomous Go agents, and Ansible for disaster recovery. Orchestrates content, backups, monitoring, and security with scheduled tasks.
 
-`Docker Compose` `Traefik v3.6` `CrowdSec` `N8N` `PostgreSQL` `Cloudflare` `Bash` `Python` `systemd` `Borg Backup`
+`Go` `Docker Compose` `Traefik v3.6` `Ansible` `CrowdSec` `N8N` `PostgreSQL` `Redis` `Cloudflare` `Linux`
 
-### 🤖 [Multi-Tenant AI Chat Platform](https://github.com/samumirandam)
+### 🤖 [AI Agent Orchestration Platform](https://github.com/samumirandam)
 
-AI chat platform for 4 users with 3 access tiers. Custom proxy (stream-buffer) with rate limiting and model gating, sandboxed Jupyter code interpreter, RAG with Voyage AI, and image generation. Self-hosted on Open WebUI.
+Go agents that replaced ~40 bash/Node.js scripts. Circuit breakers, locking, and push alerts. Includes an Anthropic API-compatible HTTP Gateway: priority queue, JWT auth, RAG with Voyage AI, and usage tracking.
 
-`Open WebUI` `Node.js` `Claude API` `Jupyter` `Voyage AI` `Docker` `Traefik`
+`Go` `SQLite` `Voyage AI` `Claude API` `JWT` `WebSocket` `SSE` `Docker`
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Apply Digital** — Front-End Engineer *(2022 – Present)*
 
 - Develop web and mobile platforms improving B2B and B2C user experiences
 - *React, React Native, Expo, Gatsby, TypeScript, Tailwind CSS, Storybook, GitHub Actions, Bitrise, Contentful, Algolia, Commercelayer*
 - ✅ Built component library to standardize design system across products
+- ✅ Led improvements on B2B and B2C portals
 
 **RV Dev** — Front-end Developer *(2022)*
 
@@ -110,14 +117,14 @@ AI chat platform for 4 users with 3 access tiers. Custom proxy (stream-buffer) w
 
 **Easy Cube** — Software Developer *(2015 – 2016)* — Built web platform for advertising content management.
 
-## 🎓 Continuous Learning — 2025–2026
+## Continuous Learning — 2025–2026
 
 **🤖 AI & Automation**
 
-- Claude 101, Claude Code in Action (Anthropic, 2026)
-- Model Context Protocol Intensive (Midudev)
+- AI Fluency (Students, Educators, Framework & Foundations), Introduction to Claude Cowork, Claude 101, Claude Code 101, Claude Code in Action, Introduction to Model Context Protocol (Anthropic, 2026)
+- Curso Intensivo de Model Context Protocol (Midudev)
 - N8N Automation, Prompt Engineering, Claude AI, ChatGPT, GitHub Copilot, AI Tools for Developers (Platzi)
-- Ethical Human-Centric AI Design, Generative AI vs. Traditional AI, Prompt Engineering with ChatGPT, Building an AI-First Mindset (LinkedIn)
+- Ethical Human-Centric AI Design, Generative AI vs. Traditional AI, Prompt Engineering with ChatGPT, Building an AI-First Mindset, Bleeding Edge of AI Innovation (LinkedIn)
 - Foundational AI Certification (Apply Digital)
 
 **🔒 Cybersecurity**
@@ -134,7 +141,7 @@ AI chat platform for 4 users with 3 access tiers. Custom proxy (stream-buffer) w
 
 - AWS Fundamentals: Cloud Computing (Platzi)
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/samumirandam/)
 - 🌐 [samumirandam.dev](https://samumirandam.dev)
@@ -142,14 +149,14 @@ AI chat platform for 4 users with 3 access tiers. Custom proxy (stream-buffer) w
 
 **Open to:**
 
-- 🚀 Senior Frontend Engineer opportunities
+- 🚀 Senior Software Engineer or AI Infrastructure roles
+- 🤖 AI automation consulting
 - 🤝 Collaborative projects
-- 💡 Technical consulting
 
 ---
 
 <div align="center">
 
-**Senior Frontend Engineer** | **10+ years of experience** | **Colombia** 🇨🇴
+**Senior Software Engineer** | **10+ years of experience** | **Colombia** 🇨🇴
 
 </div>
