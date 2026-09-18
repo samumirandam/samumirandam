@@ -22,10 +22,10 @@
 Software Engineer with 10+ years in React, TypeScript, and React Native. I maintain my own infrastructure with Docker and Go agents that automate everything from backups to a science content pipeline producing ~4 videos/day without manual intervention.
 
 - 🔭 Currently building B2B and B2C platforms at **Apply Digital**
-- 🧪 Cocreator of **[Ciencia a Mordiscos](https://cienciaamordiscos.com)** — automated science content pipeline for YouTube & TikTok
-- 🖥️ Running my own **infrastructure with Docker, Traefik, CrowdSec** and Go agents that orchestrate content, backups, monitoring, and security
-- 🤖 Built an **AI Agent Orchestration Platform** in Go — autonomous agents with circuit breakers, locking, and an Anthropic-compatible API Gateway
-- 🚀 **Contentful Certified Professional** (2024) · **Claude Code in Action** & **MCP** (Anthropic, 2026)
+- 🧪 Cocreator of **[Ciencia a Mordiscos](https://cienciaamordiscos.com)** — automated science content pipeline for YouTube & TikTok, with WhatsApp audio newsletters and generative music as sibling systems
+- 🖥️ Running my own **infrastructure with Docker, Traefik, CrowdSec** and ~40 Go binaries that operate content, backups, monitoring, auditing, and security
+- 🤖 Built an **LLM gateway and multi-agent editorial pipeline** in Go — priority queue, reviewers with real veto, human-in-the-loop via Linear, and evals checked against real audience
+- 🚀 **Contentful Certified Professional** (2024) · **Claude Code in Action**, **Building with the Claude API** & **MCP** (Anthropic, 2026)
 
 ## Core Technologies
 
@@ -51,15 +51,15 @@ Software Engineer with 10+ years in React, TypeScript, and React Native. I maint
 
 **DevOps & Infrastructure:**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Semgrep](https://img.shields.io/badge/Semgrep-1B1B1B?style=for-the-badge&logo=semgrep&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI & Automation:**
 
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Content & Video:**
 
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logo=remotion&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Featured Projects
 
@@ -71,9 +71,15 @@ SaaS for TikTok and Pinterest automation. REST API with secure OAuth, n8n/Zapier
 
 ### 🧪 [Ciencia a Mordiscos](https://cienciaamordiscos.com)
 
-Science content pipeline: papers → AI script → TTS → video → YouTube/TikTok. Each topic starts as a verified notebook from Nature/Science. ~4 videos/day and 3 notebooks automated.
+Autonomous editorial pipeline turning scientific papers into ~4 daily videos for YouTube and TikTok. Four parallel LLM reviewers, two with real veto (they fetch sources and verify citations verbatim); human approval from Linear; LLM scores evaluated against real audience and dropped from the gates when they did not correlate.
 
-`Go` `TypeScript` `React` `Remotion` `N8N` `Claude API` `ElevenLabs TTS` `FFmpeg` `Jupyter Book` `Docker` `Python`
+`Go` `TypeScript` `Remotion` `Claude API` `Linear API` `ElevenLabs TTS` `Kokoro TTS` `Wav2Vec2` `Manim` `FFmpeg` `Jupyter Book` `Docker`
+
+### 🎛️ Del Champi — Generative Electronic Music
+
+Seed-based 3-hour sessions with direct DSP (no MIDI or soundfonts), act-based narrative arc, and per-genre generative visuals. Quality measured with CLAP, FAD, and fatigue proxies plus logged blind listening; gates run in CI. Episodes published on YouTube.
+
+`Python` `numpy/scipy` `PyTorch` `CLAP` `Demucs` `FFmpeg` `YouTube API`
 
 ### 📵 [Wey Ya!](https://github.com/samumirandam/wey-ya)
 
@@ -81,65 +87,78 @@ Open-source Android app that blocks spam calls with zero internet connection. Tw
 
 `Kotlin` `Jetpack Compose` `Material 3` `Room` `Hilt` `DataStore` `Jetpack Glance` `MVVM`
 
-### 🖥️ [Self-Hosted Automation Lab](https://github.com/samumirandam)
+### 🖥️ Self-Hosted Automation Lab
 
-Personal server with Docker services, autonomous Go agents, and Ansible for disaster recovery. Orchestrates content, backups, monitoring, and security with scheduled tasks.
+Server running five automated editorial systems on a ~70k LOC Go monorepo with ~40 binaries and ~35 systemd timers. ~20 containers behind Traefik (HTTP/3, CrowdSec, HSTS), CI/CD on a self-hosted runner with SAST, CVE scan, and E2E smoke tests, ~40 monitoring checks with severity-routed alerts, weekly-verified Borg backups, and continuous auditing of code, dependencies, and Cloudflare config against a baseline.
 
-`Go` `Docker Compose` `Traefik v3.6` `Ansible` `CrowdSec` `N8N` `PostgreSQL` `Redis` `Cloudflare` `Linux`
+`Go` `Docker Compose` `Traefik v3.7` `CrowdSec` `fail2ban` `Ansible` `GitHub Actions` `Semgrep` `Checkov` `Borg` `Uptime Kuma` `Gotify` `Umami` `PostgreSQL` `Redis` `SQLite` `Cloudflare`
 
-### 🤖 [AI Agent Orchestration Platform](https://github.com/samumirandam)
+### 🤖 AI Agent Orchestration Platform
 
-Go agents that replaced ~40 bash/Node.js scripts. Circuit breakers, locking, and push alerts. Includes an Anthropic API-compatible HTTP Gateway: priority queue, JWT auth, RAG with Voyage AI, and usage tracking.
+~40 Go binaries that replaced ~40 bash/Node.js scripts to operate the server: health checks, dependency updates, code and Cloudflare auditing. Circuit breakers, per-file mutex, retry policies, and severity-routed alerts (Gotify push / Linear issue).
 
-`Go` `SQLite` `Voyage AI` `Claude API` `JWT` `WebSocket` `SSE` `Docker`
+`Go` `SQLite` `systemd` `Docker` `Gotify` `Linear API` `Cloudflare API` `Claude API`
+
+### 🔀 Claude API Gateway
+
+Go proxy with an Anthropic SDK-compatible `/v1/messages` endpoint: 4-level priority queue, per-service API keys, SSE streaming, rate limiting, and token/cost accounting per service and model. A Runner abstraction lets agents switch between Claude CLI and the Go SDK (prompt caching, Batch API) without changing the call site.
+
+`Go` `SQLite` `SSE` `Anthropic API` `Anthropic SDK` `Docker`
+
+### ⚙️ Dev-Agent: Multi-Agent FSM for Linear Issues
+
+Picks up Linear issues labeled `dev-agent` and runs them through 6 phases (Planner → Builder → Auditor → Fixer → Re-auditor → Tester) driven by Linear labels. Opens GitHub draft PRs with human gates at plan and integration; the Auditor waits for CI and classifies findings by severity.
+
+`Go` `Claude API` `Linear GraphQL` `GitHub API` `systemd`
 
 ## Professional Experience
 
 **Apply Digital** — Front-End Engineer *(2022 – Present)*
 
-- Develop web and mobile platforms improving B2B and B2C user experiences
-- *React, React Native, Expo, Gatsby, TypeScript, Tailwind CSS, Storybook, GitHub Actions, Bitrise, Contentful, Algolia, Commercelayer*
-- ✅ Built component library to standardize design system across products
-- ✅ Led improvements on B2B and B2C portals
+- Develop web platforms, improving B2B and B2C user experiences
+- *React, React Native, TypeScript, Gatsby, NestJS, Tailwind, Storybook, Lerna, Contentful, AWS*
+- ✅ Built the shared component library that standardized design across multiple products and teams
+- ✅ Led improvements on B2B and B2C portals on a headless architecture (Contentful + Commercelayer)
 
 **RV Dev** — Front-end Developer *(2022)*
 
-- Developed web and mobile platforms connecting celebrities with users
-- *React, React Native, TypeScript, Redux, Sagas, Jest*
+- Develop web and mobile platforms connecting celebrities with users
+- *React, React Native, Redux, Redux Saga, TypeScript, Jest, Styled-components*
 
 **Protección S.A.** — Frontend Web Developer *(2021 – 2022)*
 
-- Developed web platforms for financial information consultation and management
-- *React, Redux, Jest, Enzyme, Jenkins, GitLab*
-- ✅ Migrated transactions to reference architecture
+- Develop web platforms for financial information consultation and management
+- *React, Redux, React Router, Jest, Enzyme, Sass, Jenkins, GitLab*
+- ✅ Migrated financial transactions from legacy platforms to the company's reference architecture
 
-**Tuya S.A.** — Software Developer *(2016 – 2021)* — Payment processing and customer service platforms. ✅ Led First Data migration: core credit card processing engine.
+**Tuya S.A.** — Software Developer *(2016 – 2021)* — Payment processing and customer service platforms (.NET, SQL Server, Azure). ✅ First Data: migrated the core credit card processing engine to the new platform.
 
-**Easy Cube** — Software Developer *(2015 – 2016)* — Built web platform for advertising content management.
+**Easy Cube** — Software Developer *(2015 – 2016)* — Built from scratch the web portal for creating and viewing advertising content (.NET MVC, SQL Server).
 
 ## Continuous Learning — 2025–2026
 
 **🤖 AI & Automation**
 
-- AI Fluency (Students, Educators, Framework & Foundations), Introduction to Claude Cowork, Claude 101, Claude Code 101, Claude Code in Action, Introduction to Model Context Protocol (Anthropic, 2026)
-- Curso Intensivo de Model Context Protocol (Midudev)
-- N8N Automation, Prompt Engineering, Claude AI, ChatGPT, GitHub Copilot, AI Tools for Developers (Platzi)
-- Ethical Human-Centric AI Design, Generative AI vs. Traditional AI, Prompt Engineering with ChatGPT, Building an AI-First Mindset, Bleeding Edge of AI Innovation (LinkedIn)
-- Foundational AI Certification (Apply Digital)
+- AI Fluency (Students, Educators, Framework & Foundations), Introduction to Claude Cowork, Claude 101, Claude Code 101, Claude Code in Action, Introduction to Model Context Protocol, Introduction to Agent Skills, Introduction to Subagents, Building with the Claude API (Anthropic, 2026)
+- AI Coding Crash Course (AIhero, 2026)
+- OpenCode desde cero (Midudev, 2026) · Curso Intensivo de Model Context Protocol (Midudev, 2025)
+- N8N Automation, Prompt Engineering, Claude AI, ChatGPT, GitHub Copilot, AI Tools for Developers (Platzi, 2025)
+- Ethical Human-Centric AI Design, Generative AI vs. Traditional AI, Prompt Engineering with ChatGPT, Building an AI-First Mindset, Bleeding Edge of AI Innovation (LinkedIn, 2025)
+- Foundational AI Certification (Apply Digital, 2025)
 
 **🔒 Cybersecurity**
 
-- Introduction to Cybersecurity, Social Engineering, Cybersecurity & Privacy for Companies (Platzi)
-- Cybersecurity at Work (LinkedIn)
+- Introduction to Cybersecurity, Social Engineering, Cybersecurity & Privacy for Companies (Platzi, 2025)
+- Cybersecurity at Work (LinkedIn, 2025)
 
 **⚛️ Frontend & Architecture**
 
-- Tailwind CSS from Scratch (Midudev)
-- Software Engineering Fundamentals (Platzi)
+- Tailwind CSS from Scratch (Midudev, 2025)
+- Software Engineering Fundamentals (Platzi, 2025)
 
 **🚀 DevOps**
 
-- AWS Fundamentals: Cloud Computing (Platzi)
+- AWS Fundamentals: Cloud Computing (Platzi, 2025)
 
 ## Let's Connect
 
